@@ -5,3 +5,4 @@ edition = "2024"
 
 [dependencies]
 heapless = "0.8.0"
+anyhow = {version = "1.0.98", default-features = false}
